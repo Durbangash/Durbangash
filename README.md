@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Durbangash
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Computer Vision
+- 🌱 I’m currently learning CV and NLP
 - 💞️ I’m looking to collaborate on same
 - 📫 How to reach me twitter @durbangash 
 
